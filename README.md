@@ -8,7 +8,11 @@ Two players take turns placing Xs and Os on a 3×3 board until one wins or the g
 - 2-player turn-based gameplay
 - Win and draw detection
 - Simple console interface
-- Clear code structure with basic Java logic
+- Clear code structure using core Java logic
+
+## Preview
+
+![TicTacToe Screenshot](https://raw.githubusercontent.com/JeremieAduna/TicTacToe-Java/refs/heads/main/TicTacToe.jpg)
 
 ## How to Run
 
@@ -17,20 +21,20 @@ Two players take turns placing Xs and Os on a 3×3 board until one wins or the g
 
 2. Open the project in your Java IDE
 
-3. Run `Main.java` (or `TicTacToe.java` depending on your entry point)
+3. Run Main.java or TicTacToe.java depending on your setup
 
 ## Technologies Used
 
 - Java (JDK 8+)
 - 2D arrays
-- Loops and conditional statements
 - Console input/output
+- Loops and conditional logic
 
 ## Learning Goals
 
-- Practice handling game logic and flow control
-- Work with Java arrays and user input
-- Build a complete project using core Java concepts
+- Build a complete game using basic Java
+- Apply logic and control flow
+- Practice clean, testable code structure
 
 ## License
 
